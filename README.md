@@ -1,2 +1,2 @@
 # hello-world
-Ejemplo de lo más basico.
+Ejemplo basico en HTML.
